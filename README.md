@@ -1,5 +1,4 @@
 # ¡Hola, Soy Alvarez Luciano! 👋
-![Imagen de perfil](https://github.com/LUXI4NO/LUXI4NO/assets/140111840/d3d6787b-f862-41bb-9b5f-73f65cb4acb1)
 
 ### Mis Intereses de Investigación:
 - Análisis de datos exploratorio para identificar patrones y tendencias.
